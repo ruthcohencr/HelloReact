@@ -28,6 +28,6 @@
     "react": "^15.6.2",
     "react-dom": "^15.6.2",
     "webpack": "^3.10.0",
-    "webpack-dev-middleware": "^2.0.4"
+    "webpack-dev-middleware": "^1.12.2"
   }
 }
